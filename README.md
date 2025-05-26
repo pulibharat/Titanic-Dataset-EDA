@@ -4,7 +4,7 @@ Objective: Clean and prepare the Titanic dataset for machine learning.
 ✅ Steps Completed:
 1) Imported and explored the dataset
 
-  Viewed null values, data types, and general structure.
+   Viewed null values, data types, and general structure.
 
 2) Handled missing values
 
