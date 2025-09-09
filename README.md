@@ -28,8 +28,4 @@ Clean and prepare the Titanic dataset for machine learning.
    - Used **boxplots** to detect outliers.
    - Removed them using the **IQR method**.
 
----
-
-### 💾 Output:
-Final cleaned dataset saved as:
 
